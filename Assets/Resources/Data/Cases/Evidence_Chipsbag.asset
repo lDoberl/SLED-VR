@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268be1c762ec2ad40bb234e21338f37b, type: 3}
+  m_Name: Evidence_Chipsbag
+  m_EditorClassIdentifier: Assembly-CSharp::CSI.Data.EvidencePiece
+  evidenceId: Chipsbag
+  category: 1
+  collectionMethod: 0
+  requiresPhotoBeforeCollection: 1
+  visibleDisplayName: "\u041C\u0435\u0448\u043E\u0447\u0435\u043A \u0441 \u043D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u043C
+    \u043D\u0430\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435\u043C"
+  visibleDescription: "\u041D\u0430\u0439\u0434\u0435\u043D \u043F\u043E\u0434 \u043A\u0440\u043E\u0432\u0430\u0442\u044C\u044E."
+  hiddenDisplayName: "\u041C\u0435\u0448\u043E\u0447\u0435\u043A \u043A\u043E\u043A\u0430\u0438\u043D\u0430
+    (70\u0433)"
+  hiddenDescription: "\u041E\u0431\u043D\u0430\u0440\u0443\u0436\u0435\u043D \u043A\u043E\u043A\u0430\u0438\u043D
+    \u2014 \u043D\u0435 \u0441\u0432\u044F\u0437\u0430\u043D \u043D\u0430\u043F\u0440\u044F\u043C\u0443\u044E
+    \u0441 \u043F\u0440\u0438\u0447\u0438\u043D\u043E\u0439 \u0441\u043C\u0435\u0440\u0442\u0438."
+  ownerNameIfFingerprint: 
+  icon: {fileID: 21300000, guid: a3af34cddca2c2248b5d5b16a07a5a10, type: 3}
+  worldPrefab: {fileID: 0}
+  startingQuantity: 1
+  isRedHerring: 1

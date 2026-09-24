@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268be1c762ec2ad40bb234e21338f37b, type: 3}
+  m_Name: Tool_ToolNotebook
+  m_EditorClassIdentifier: Assembly-CSharp::CSI.Data.EvidencePiece
+  evidenceId: ToolNotebook
+  category: 0
+  collectionMethod: 0
+  requiresPhotoBeforeCollection: 0
+  visibleDisplayName: "\u0411\u043B\u043E\u043A\u043D\u043E\u0442 \u0441\u043B\u0435\u0434\u043E\u0432\u0430\u0442\u0435\u043B\u044F"
+  visibleDescription: "\u0417\u0430\u043F\u0438\u0441\u0438 \u0438 \u0437\u0430\u0446\u0435\u043F\u043A\u0438
+    \u043F\u043E \u0434\u0435\u043B\u0443."
+  hiddenDisplayName: 
+  hiddenDescription: 
+  ownerNameIfFingerprint: 
+  icon: {fileID: 21300000, guid: d09fc86b622d8274288c2fd3205eae98, type: 3}
+  worldPrefab: {fileID: 6301854076443437050, guid: 69495f94deaf1e2498e591bb719601ef, type: 3}
+  startingQuantity: 1
+  isRedHerring: 0

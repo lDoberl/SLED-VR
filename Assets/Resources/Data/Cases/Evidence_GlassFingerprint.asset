@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268be1c762ec2ad40bb234e21338f37b, type: 3}
+  m_Name: Evidence_GlassFingerprint
+  m_EditorClassIdentifier: Assembly-CSharp::CSI.Data.EvidencePiece
+  evidenceId: GlassFingerprint
+  category: 1
+  collectionMethod: 1
+  requiresPhotoBeforeCollection: 1
+  visibleDisplayName: "\u041E\u0442\u043F\u0435\u0447\u0430\u0442\u043E\u043A \u043F\u0430\u043B\u044C\u0446\u0430"
+  visibleDescription: "\u041E\u0442\u043F\u0435\u0447\u0430\u0442\u043E\u043A \u043D\u0430
+    \u0440\u044E\u043C\u043A\u0435."
+  hiddenDisplayName: "\u041E\u0442\u043F\u0435\u0447\u0430\u0442\u043E\u043A \u043F\u0430\u043B\u044C\u0446\u0430"
+  hiddenDescription: "\u0412\u043B\u0430\u0434\u0435\u043B\u0435\u0446 \u043E\u0442\u043F\u0435\u0447\u0430\u0442\u043A\u0430:
+    \u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430 \u0418.\u0410."
+  ownerNameIfFingerprint: "\u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430"
+  icon: {fileID: 21300000, guid: e1979e071ae42274d9f77e85fcfba08e, type: 3}
+  worldPrefab: {fileID: 0}
+  startingQuantity: 1
+  isRedHerring: 0

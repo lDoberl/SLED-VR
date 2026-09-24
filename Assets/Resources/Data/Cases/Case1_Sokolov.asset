@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45df9b4ff412b04419624888a364080f, type: 3}
+  m_Name: Case1_Sokolov
+  m_EditorClassIdentifier: Assembly-CSharp::CSI.Data.CaseDefinition
+  caseId: Case1_Sokolov
+  displayName: "\u0414\u0435\u043B\u043E \u21161: \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u043E
+    \u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430"
+  sceneName: Fabula1
+  evidencePieces:
+  - {fileID: 11400000, guid: a966412f4057b6a4ca028d29e3143164, type: 2}
+  - {fileID: 11400000, guid: 05f6f931936584c4f98b16d1aeb32bb8, type: 2}
+  - {fileID: 11400000, guid: 708aeff2bba098e448cf130e0c7496b2, type: 2}
+  - {fileID: 11400000, guid: 5561bc91e0837c643a5b9ace8dac8880, type: 2}
+  - {fileID: 11400000, guid: 481dc3ee25ad58749b2518e40420049a, type: 2}
+  - {fileID: 11400000, guid: b56c56bf10ebed24ca7f60a9930a562d, type: 2}
+  - {fileID: 11400000, guid: 4ac752144a568824dab55a34bc57a939, type: 2}
+  - {fileID: 11400000, guid: dba1725e590654042b58dea624d0eb68, type: 2}
+  - {fileID: 11400000, guid: 5de2f2fff0d6a544195df3bbcf6af2a2, type: 2}
+  startingTools:
+  - {fileID: 11400000, guid: 608208ecb0b98a74da4a2530fb2c4096, type: 2}
+  - {fileID: 11400000, guid: f08014feb00a43d439a78e759ffdc051, type: 2}
+  - {fileID: 11400000, guid: 0fe1157a6f2c3374885487b34d1e34ca, type: 2}
+  - {fileID: 11400000, guid: 3b12b020d9e58d34e8b6648b2fbb9ff7, type: 2}
+  - {fileID: 11400000, guid: 17d52de407e624548a2cbdedf936976a, type: 2}
+  notebookLeadText: "\u0418\u0432\u0430\u043D\u043E\u0432\u0430 \u0415.\u0410. \u0431\u044B\u043B\u0430
+    \u0432 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0435 \u043D\u0430\u043A\u0430\u043D\u0443\u043D\u0435
+    \u043F\u0440\u0435\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F \u0441
+    19:00 \u0434\u043E 22:00. \u0412 \u0434\u0435\u043D\u044C \u0443\u0431\u0438\u0439\u0441\u0442\u0432\u0430
+    \u043E\u043D\u0430 \u043F\u0440\u0438\u0445\u043E\u0434\u0438\u043B\u0430 \u0441
+    \u0434\u0432\u0443\u043C\u044F \u0441\u0442\u0430\u043A\u0430\u043D\u0430\u043C\u0438
+    \u043A\u043E\u0444\u0435 \u0438 \u043F\u0430\u043A\u0435\u0442\u043E\u043C \u0438\u0437
+    \u043C\u0430\u0433\u0430\u0437\u0438\u043D\u0430 \xAB\u041A\u0440\u0430\u0441\u043D\u043E-\u0431\u0435\u043B\u043E\u0435\xBB.
+    \u041F\u043E\u0441\u043B\u0435 \u0435\u0451 \u0443\u0445\u043E\u0434\u0430 (\u0432
+    18:00) \u0432 \u043A\u0432\u0430\u0440\u0442\u0438\u0440\u0443 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F
+    \u0421\u043E\u043A\u043E\u043B\u043E\u0432."
+  motiveOptions:
+  - text: "\u041A\u0440\u0430\u0436\u0430 \u0434\u0435\u043D\u0435\u0433"
+    isCorrect: 1
+  - text: "\u0421\u043E\u043A\u0440\u044B\u0442\u0438\u0435 \u0444\u0430\u043A\u0442\u0430
+      \u0443\u043F\u043E\u0442\u0440\u0435\u0431\u043B\u0435\u043D\u0438\u044F \u043D\u0430\u0440\u043A\u043E\u0442\u0438\u043A\u043E\u0432"
+    isCorrect: 0
+  - text: "\u0420\u0435\u0432\u043D\u043E\u0441\u0442\u044C"
+    isCorrect: 0
+  - text: "\u0418\u0437\u0431\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u043E\u0442
+      \u0441\u0443\u043F\u0440\u0443\u0433\u0438"
+    isCorrect: 0
+  - text: "\u041D\u0435\u0443\u043F\u043B\u0430\u0442\u0430 \u0434\u043E\u043B\u0433\u0430"
+    isCorrect: 0
+  causeOfDeathOptions:
+  - text: "\u041F\u0435\u0440\u0435\u0434\u043E\u0437\u0438\u0440\u043E\u0432\u043A\u0430
+      \u043A\u043E\u043A\u0430\u0438\u043D\u043E\u043C"
+    isCorrect: 0
+  - text: "\u041D\u0430\u0441\u0438\u043B\u044C\u0441\u0442\u0432\u0435\u043D\u043D\u0430\u044F
+      \u0441\u043C\u0435\u0440\u0442\u044C"
+    isCorrect: 0
+  - text: "\u041F\u0435\u0440\u0435\u0434\u043E\u0437\u0438\u0440\u043E\u0432\u043A\u0430
+      \u043A\u043B\u043E\u0444\u0435\u043B\u0438\u043D\u043E\u043C"
+    isCorrect: 1
+  - text: "\u041E\u0442\u0440\u0430\u0432\u043B\u0435\u043D\u0438\u0435 \u043D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u043C
+      \u044F\u0434\u043E\u043C"
+    isCorrect: 0
+  - text: "\u041E\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0430 \u0441\u0435\u0440\u0434\u0446\u0430"
+    isCorrect: 0
+  suspectOptions:
+  - text: "\u0418\u0432\u0430\u043D\u043E\u0432\u0430 \u0415. \u0410."
+    isCorrect: 1
+  - text: "\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0412. \u041D."
+    isCorrect: 0
+  - text: "\u041D\u0435\u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u043E\u0435
+      \u043B\u0438\u0446\u043E"
+    isCorrect: 0
+  - text: "\u0421\u043E\u043A\u043E\u043B\u043E\u0432\u0430 \u0418. \u0410."
+    isCorrect: 0

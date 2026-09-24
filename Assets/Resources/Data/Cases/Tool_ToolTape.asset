@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 268be1c762ec2ad40bb234e21338f37b, type: 3}
+  m_Name: Tool_ToolTape
+  m_EditorClassIdentifier: Assembly-CSharp::CSI.Data.EvidencePiece
+  evidenceId: ToolTape
+  category: 0
+  collectionMethod: 0
+  requiresPhotoBeforeCollection: 0
+  visibleDisplayName: "\u0414\u0430\u043A\u0442\u0438\u043B\u043E\u0441\u043A\u043E\u043F\u0438\u0447\u0435\u0441\u043A\u0430\u044F
+    \u043F\u043B\u0451\u043D\u043A\u0430"
+  visibleDescription: "\u0421\u043D\u0438\u043C\u0430\u0435\u0442 \u043F\u0440\u043E\u044F\u0432\u043B\u0435\u043D\u043D\u044B\u0439
+    \u043E\u0442\u043F\u0435\u0447\u0430\u0442\u043E\u043A \u0441 \u043F\u043E\u0432\u0435\u0440\u0445\u043D\u043E\u0441\u0442\u0438."
+  hiddenDisplayName: 
+  hiddenDescription: 
+  ownerNameIfFingerprint: 
+  icon: {fileID: 21300000, guid: 0d73a1e94d40479479ca6101a06a8b8c, type: 3}
+  worldPrefab: {fileID: 4871062398994354794, guid: 879fecc2255f7d246bb0a3bf06d38c86, type: 3}
+  startingQuantity: 1
+  isRedHerring: 0
