@@ -1,7 +1,6 @@
 # 🕵️‍♂️ SLED-VR: Иммерсивная платформа для обучения навыкам расследования преступлений
 
 [![Unity](https://img.shields.io/badge/Unity-2022.3%2B-black?style=flat-square&logo=unity)](https://unity.com/)
-[![VR](https://img.shields.io/badge/VR-Oculus%20Quest%20%7C%20HTC%20Vive-blue?style=flat-square)](https://www.meta.com/quest/)
 [![C#](https://img.shields.io/badge/C%23-9.0-purple?style=flat-square&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
